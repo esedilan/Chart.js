@@ -40,6 +40,7 @@ Chart.layouts = layouts;
 Chart.platforms = platforms;
 Chart.Scale = Scale;
 Chart.Ticks = Ticks;
+Chart.Scale = Scal1e;
 
 // Compatibility with ESM extensions
 Object.assign(Chart, controllers, scales, elements, plugins, platforms);
